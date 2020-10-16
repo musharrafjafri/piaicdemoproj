@@ -9,3 +9,10 @@
 
 
 > This is my FB profile link [Musharraf](https://www.facebook.com/S.M.Musharraf.J)
+
+```
+a = 10
+b = 20
+result = a * b
+print(result)
+```
