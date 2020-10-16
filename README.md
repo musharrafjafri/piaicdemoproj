@@ -5,4 +5,4 @@
 - [X] Basic Intro
 - [X] Advance Git
 - [X] Branches and Merging
-- [ ] Rebase Git
+** - [ ] Rebase Git **
