@@ -3,6 +3,6 @@
 
 ## We have covered:
 - [x] Basic Intro
--[X] Advance Git
+- [X] Advance Git
 -[X] Branches and Merging
 -[] Rebase Git
